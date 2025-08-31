@@ -2,8 +2,8 @@ name: Windows Runner
 on: [workflow_dispatch]
 jobs:
   SSH:
-    runs-on: windows-latest
-    timeout-minutes: 180
+    runs-on: windows-11
+    timeout-minutes: 360
     steps:
     - uses: actions/checkout@v2
     - name: Setup ssh session
