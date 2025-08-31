@@ -40,3 +40,8 @@ Commands taken from [here.](https://github.com/CYB3RKING/RDP?tab=readme-ov-file#
 Username: runneradmin
 <br>
 Password: @th1spmo
+<br>
+You should now be in the runner's desktop!
+<br>
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/3e89a05e-70dc-490d-bf6e-0674f78374fe" />
+
