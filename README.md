@@ -9,7 +9,7 @@ After you have done that, run these commands in the runner.
 wget -O C:/Windows/zrok.exe https://github.com/meownyaaa/rdp-windows-workflow/releases/download/august2025/zrok.exe
 C:/Windows/zrok.exe enable PUTYOURACCOUNTTOKENHERE
 powershell.exe Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Value 0
-powershell.exe Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
+powershell.exe Enable-NetFirewallRule -DisplayGroup 'Remote Desktop'
 powershell.exe Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name "UserAuthentication" -Value 1
 
 
@@ -73,6 +73,7 @@ Zrok should give you the enable command when you sign up. If you accidentally cl
 
 The last characters on the "access your share" is the runner's token.
 <img width="711" height="100" alt="image" src="https://github.com/user-attachments/assets/a72587b3-e059-4f7e-95dc-2cba0f8a3223" />
+
 
 
 
