@@ -46,6 +46,20 @@ Password: @th1spmo
 <br>
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/3e89a05e-70dc-490d-bf6e-0674f78374fe" />
 
+<br>
 
+# If you're confused with the token part
+
+### "PUTYOURACCOUNTTOKENHERE"
+<br>
+
+Zrok should give you the enable command when you sign up. If you accidentally closed out of it or have used zrok before and have forgotten where it is;
+<img width="1524" height="475" alt="image" src="https://github.com/user-attachments/assets/b66a8625-77a5-4442-8cd6-a0a330d69dfe" />#
+
+### "PUTRUNNERSTOKENHERE"
+<br>
+
+The last characters on the "access your share" is the runner's token.
+<img width="711" height="100" alt="image" src="https://github.com/user-attachments/assets/a72587b3-e059-4f7e-95dc-2cba0f8a3223" />
 
 
