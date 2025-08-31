@@ -2,7 +2,7 @@ name: Windows Runner
 on: [workflow_dispatch]
 jobs:
   SSH:
-    runs-on: windows-11
+    runs-on: windows-11-arm
     timeout-minutes: 360
     steps:
     - uses: actions/checkout@v2
