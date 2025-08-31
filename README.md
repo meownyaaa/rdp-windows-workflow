@@ -1,4 +1,4 @@
-# Setting up RDP for the workflow
+# Setting up RDP for the runner
 
 <br>
 
@@ -73,6 +73,7 @@ Zrok should give you the enable command when you sign up. If you accidentally cl
 
 The last characters on the "access your share" is the runner's token.
 <img width="711" height="100" alt="image" src="https://github.com/user-attachments/assets/a72587b3-e059-4f7e-95dc-2cba0f8a3223" />
+
 
 
 
