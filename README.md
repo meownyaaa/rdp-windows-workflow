@@ -56,7 +56,7 @@ Password: @th1spmo
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/3e89a05e-70dc-490d-bf6e-0674f78374fe" />
 <br>
 
-Windows Runner only has 180 minutes of runtime, use it wisely (or something)
+Be aware that the windows runner only has 360 minutes of runtime (or 6 hours exactly)
 
 <br>
 
@@ -73,6 +73,7 @@ Zrok should give you the enable command when you sign up. If you accidentally cl
 
 The last characters on the "access your share" is the runner's token.
 <img width="711" height="100" alt="image" src="https://github.com/user-attachments/assets/a72587b3-e059-4f7e-95dc-2cba0f8a3223" />
+
 
 
 
