@@ -26,7 +26,7 @@ C:/Windows/zrok.exe share private --backend-mode tcpTunnel localhost:3389
 Commands taken from [here](https://github.com/CYB3RKING/RDP?tab=readme-ov-file#rdp-code).
 <br>
 Feel free to upload zrok somewhere else. 
-# Connecting to RDP (you will need zrok on your machine too!)
+# Connecting to RDP (you will need zrok on the connecting machine too!)
 <br>
 
 ## Run this on the machine you're connecting from
@@ -66,6 +66,7 @@ Zrok should give you the enable command when you sign up. If you accidentally cl
 
 The last characters on the "access your share" is the runner's token.
 <img width="711" height="100" alt="image" src="https://github.com/user-attachments/assets/a72587b3-e059-4f7e-95dc-2cba0f8a3223" />
+
 
 
 
